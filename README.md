@@ -3,8 +3,10 @@
 Build and run the application
 
 Prerequisites:
-1. Install JDK 8
-2. Install Maven 3.3.9
+
+1. Install JDK 8.
+2. Install Maven 3.3.9.
+
 
 The angular-spring-boot-demo project can be build and run with the below steps:
 
