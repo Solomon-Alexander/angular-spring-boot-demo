@@ -15,3 +15,4 @@ The angular-spring-boot-demo project can be build and run with the below steps:
 
 Note: Currently the tomcat will be running in port 8081, if there are conflicting ports, then
 change the property "server.port" from the application.properties located in src/main/resources.
+
